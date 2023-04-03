@@ -1,0 +1,40 @@
+.container {
+
+	width: 800px;
+	margin: 0 auto;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+.container-white {
+  width: 500px;
+  align-content: center;
+  margin: 40px auto;
+  box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+  padding: 20px;
+  border-radius: 5px;
+}
+.container-white img {
+  width: 400px;
+  height: 290px;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-content: center;
+  border-radius: 5px;
+  margin-bottom: 10px;
+
+}

@@ -1,0 +1,8 @@
+.btn-green {
+	background-color: rgb(43, 79, 40);
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+	margin-left: 5px;
+	font-family: 'Signika', sans-serif;
+}
